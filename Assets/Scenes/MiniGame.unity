@@ -1831,6 +1831,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   speed: 10
+  jumpHeight: 5
   countText: {fileID: 646721187}
   winTextObject: {fileID: 1890052547}
 --- !u!114 &1650179432
